@@ -1,5 +1,5 @@
-<h2> Welcome to Ghostmen Hut  <img src="https://media.giphy.com/media/8SpRZ3EKI25vVTH53g/giphy.gif" width="50" alt="Sticker"></h2> 
-<h2> Hi, I'm gostmen (not Ghostmen) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Welcome to Anmol's Hut  <img src="https://media.giphy.com/media/8SpRZ3EKI25vVTH53g/giphy.gif" width="50" alt="Sticker"></h2> 
+<h2> Hi, I'm Anmol <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -49,7 +49,7 @@ console.log(me.learning);
 
 ```
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gostmennnnn&label=Profile%20views&color=0e75b6&style=flat" alt="gostmennnnn" />
+  <img src="https://komarev.com/ghpvc/?username=axnm0l&label=Profile%20views&color=0e75b6&style=flat" alt="axnm0l" />
   
 </p>
 > uptime    <img src="assets/uptime.svg" alt="00:00:00" height="14" align="absmiddle" />
