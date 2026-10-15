@@ -5,9 +5,9 @@
 
 <h4> About Me </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 
-  <li>🎓 Learning Cybersecurity & Red Team Operations
-  <li>🔬 Focused on Malware Analysis & Reverse Engineering
-  <li>💻 Passionate about security research
+  <li> Learning Cybersecurity & Red Team Operations
+  <li> Focused on Malware Analysis & Reverse Engineering
+  <li> Passionate about security research
 
 ##### Languages I use
 
