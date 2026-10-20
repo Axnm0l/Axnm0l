@@ -1,11 +1,11 @@
-<h2> Welcome to Anmol's Hut 🏠</h2> 
+<h2> Welcome to Anmol's Hut 🏠</h2>
 <h2> Hi, I'm Anmol 👋</h2>
 
 <h4> About Me </h4>
 
-  <li> Learning Cybersecurity & Red Team Operations
-  <li> Focused on Malware Analysis & Reverse Engineering
-  <li> Passionate about security research
+<li> Learning Cybersecurity & Red Team Operations
+<li> Focused on Malware Analysis & Reverse Engineering
+<li> Passionate about security research
 
 ##### Languages I use
 
@@ -36,7 +36,7 @@
 ![Adaptix C2](https://img.shields.io/badge/-Adaptix%20C2-222222?style=flat&logo=codefactor&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-222222?style=flat&logo=nmap&logoColor=4682B4)
 
-### 👋 A little more about me...  
+### 👋 A little more about me...
 
 ```javascript
  const me = {
@@ -44,6 +44,7 @@
 };
 
 ```
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=axnm0l&label=Profile%20views&color=0e75b6&style=flat" alt="axnm0l" />
   
