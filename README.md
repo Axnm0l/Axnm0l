@@ -1,11 +1,13 @@
-<h2> Welcome to Anmol's Hut 🏠</h2>
-<h2> Hi, I'm Anmol 👋</h2>
+<h2> Welcome to Anmol's Hut  <img src="https://media.giphy.com/media/8SpRZ3EKI25vVTH53g/giphy.gif" width="50" alt="Sticker"></h2> 
+<h2> Hi, I'm Anmol <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h4> About Me </h4>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-<li> Learning Cybersecurity & Red Team Operations
-<li> Focused on Malware Analysis & Reverse Engineering
-<li> Passionate about security research
+<h4> About Me </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+
+  <li> Learning Cybersecurity & Red Team Operations
+  <li> Focused on Malware Analysis & Reverse Engineering
+  <li> Passionate about security research
 
 ##### Languages I use
 
@@ -36,7 +38,7 @@
 ![Adaptix C2](https://img.shields.io/badge/-Adaptix%20C2-222222?style=flat&logo=codefactor&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-222222?style=flat&logo=nmap&logoColor=4682B4)
 
-### 👋 A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
  const me = {
@@ -44,7 +46,6 @@
 };
 
 ```
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=axnm0l&label=Profile%20views&color=0e75b6&style=flat" alt="axnm0l" />
   
